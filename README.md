@@ -3,7 +3,7 @@
 This site is designed for booking tickets to Coldplay concerts. Users can select their preferred seating and book tickets up to a maximum of 5 per person. Enjoy the concert with an easy and seamless booking experience. Enjoy booking your tickets and see you at the Coldplay concert! 🎸🎤
 
 
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
 [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
