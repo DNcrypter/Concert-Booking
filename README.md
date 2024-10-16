@@ -8,7 +8,7 @@ This site is designed for booking tickets to Coldplay concerts. Users can select
 [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
 ## live Demo site:
-visite below website for demo-
+visite this website for demo: 
 https://dncrypter.github.io/Concert-Booking/
 
 ## Features
